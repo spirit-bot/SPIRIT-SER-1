@@ -5,16 +5,17 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/880CEdp.jpeg" width="300" height="300"/>
-  <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <img border-radius: 15px src="https://i.imgur.com/5LDRr8K.jpeg" width="300"
+<p align="center">
+<a href="#"><img title="SPIRIT-SER" src="https://img.shields.io/badge/SPIRIT-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
+
+<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-spirit-ser/SPIRIT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT">spirit-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,9 +27,9 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ItsMeRafi/SPIRIT-SER-BOT-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPIRITSER/SPIRIT-SER)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,43 +40,43 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@PrinceRudh/Rudhra-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@BotYt1/SPIRIT-SER-BOT-QR)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/SPlRlT-YT/SPIRIT-SER/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/SPIRITSER/SPIRIT-SER copy this url and change SPlRlT-YT with your github username and click go<br>
 
 ----
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/princerudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/spirit-ser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support me👇:</h4>
 <p align="center">
-<a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/SPlRlT-YT/SPIRIT-SER">
+    <img src="https://img.shields.io/github/repo-size/SPlRlT-YT/SPIRIT-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra2.0?label=Watchers&color=lime&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-lime.svg"</a>
+<a href="https://github.com/SPlRlT-YT/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPlRlT-YT/SPIRIT-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPlRlT-YT/SPIRIT-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPlRlT-YT/SPIRIT-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GE4WSfSe1J3ExD72afgmOV)
   <div align="center">
        
   </div>
@@ -86,8 +87,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/SPlRlT-YT/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +97,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/SPlRlT-YT/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,9 +118,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`spirit ser`](https://github.com/SPIRITSER.png?size=200)](https://github.com/SPlRlT-YT)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`spirit ser`](https://github.com/SPlRlT-YT)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
